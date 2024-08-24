@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:24
+device_longitude:-74.08746475658415
+device_latitude:4.679977851434091
+device_elevation:0.0
+device_radius:10.0
+device_hide:0
+natural_event_file_name:event2.evt
